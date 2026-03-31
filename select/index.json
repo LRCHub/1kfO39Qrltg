@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "LOST CORNER",
   "base_artist": "米津玄師",
-  "createdAt": "2026-03-31T06:09:13.662057Z",
+  "createdAt": "2026-03-31T14:37:51.509766Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,15 +35,6 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_LOST_CORNER_米津玄師.txt"
-    },
-    {
-      "id": "localdb_1",
-      "source": "localdb",
-      "title": "LOST CORNER",
-      "artist": "米津玄師",
-      "has_synced": true,
-      "path": "select/localdb_01_LOST_CORNER_米津玄師.lrc",
-      "repo_name": "HKMP-WQI9qQ"
     }
   ]
 }
